@@ -1,9 +1,9 @@
-theme = "black-and-light"
+theme = "ananke"
 relativeURLs = true
 baseURL = "/"
 title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Aniruddh"
+copyright = "Copyright © 2022-2022, Aniruddh and the Hugo Authors; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
